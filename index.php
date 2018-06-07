@@ -12,6 +12,8 @@
       <li>bricks</li>
       <li>mortar</li>
       <li>sand</li>
+      <li>wood</li>
+      <li>nails</li>
     </ul>
   </div>
 </body>
